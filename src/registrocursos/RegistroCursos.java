@@ -48,7 +48,7 @@ public class RegistroCursos extends javax.swing.JFrame {
                 new RegistroCursos().setVisible(true);
             }
         });
-    }//hola
+    }//hola modificando algo modificando
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JLabel jLabel1;
